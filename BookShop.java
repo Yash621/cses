@@ -38,13 +38,6 @@ public class BookShop {
 
             }
         }
-        // for (int i = 0; i < n; i++) {
-        // for (int j = 0; j < x; j++) {
-
-        // System.out.print(dp[i][j] + " ");
-        // }
-        // System.out.println();
-        // }
 
         System.out.println(dp[n - 1][x]);
 
